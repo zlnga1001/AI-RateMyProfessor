@@ -1,0 +1,191 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily White",
+        "review": "Engaging and clear explanations. Makes complex topics understandable.",
+        "subject": "Physics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Robert Green",
+        "review": "Very strict grading, but knowledgeable. Be prepared to work hard.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Lisa Turner",
+        "review": "Monotone lectures. Hard to stay focused in class.",
+        "subject": "History",
+        "stars": 2
+      },
+      {
+        "professor": "Prof. Michael Davis",
+        "review": "Passionate about the subject, but assignments are vague.",
+        "subject": "English Literature",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "review": "Incredibly helpful during office hours. Really cares about students.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. James Brown",
+        "review": "Too fast-paced, but comprehensive. You learn a lot if you can keep up.",
+        "subject": "Calculus",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Rachel Miller",
+        "review": "Always prepared and organized. A pleasure to learn from.",
+        "subject": "Political Science",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. William Taylor",
+        "review": "Doesn’t tolerate late work. Very punctual and expects the same.",
+        "subject": "Economics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Anna Brown",
+        "review": "Funny and approachable. Makes the class enjoyable.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. John Wilson",
+        "review": "Difficult exams. You need to study a lot to do well.",
+        "subject": "Statistics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Karen Harris",
+        "review": "Extremely knowledgeable but not the best at explaining concepts.",
+        "subject": "Philosophy",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Charles Lewis",
+        "review": "Challenging coursework, but you come out much stronger in the end.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Amanda Hall",
+        "review": "Inspiring and motivating. She really pushes you to succeed.",
+        "subject": "Art History",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. David Lee",
+        "review": "Strict attendance policy, but fair grading.",
+        "subject": "Sociology",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Laura Clark",
+        "review": "Unclear expectations. Felt lost most of the time.",
+        "subject": "French",
+        "stars": 2
+      },
+      {
+        "professor": "Prof. Thomas Martinez",
+        "review": "Very approachable. Encourages class participation.",
+        "subject": "Political Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Patricia Young",
+        "review": "Brilliant but overwhelming amount of reading.",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Joseph Hernandez",
+        "review": "Interesting lectures, but the grading can be tough.",
+        "subject": "Law",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Jessica King",
+        "review": "Very passionate and knowledgeable. Highly recommend.",
+        "subject": "Anthropology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Richard Perez",
+        "review": "Too much emphasis on theory, not enough on practical application.",
+        "subject": "Engineering",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Kimberly Walker",
+        "review": "Patient and willing to help students. Very supportive.",
+        "subject": "Education",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Daniel Edwards",
+        "review": "The lectures are boring, but the exams are fair.",
+        "subject": "Business",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Barbara Scott",
+        "review": "Really makes you think critically. Tough but fair.",
+        "subject": "Philosophy",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Mark Mitchell",
+        "review": "Too much homework, but you learn a lot.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Stephanie Cooper",
+        "review": "Very encouraging and positive. She makes learning fun.",
+        "subject": "Creative Writing",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. George Campbell",
+        "review": "Not very approachable. Hard to get help when you need it.",
+        "subject": "Physics",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Linda Adams",
+        "review": "Great professor if you love math. She’s very clear and concise.",
+        "subject": "Algebra",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Brian Thompson",
+        "review": "Good lectures, but the group projects were chaotic.",
+        "subject": "Marketing",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Karen Roberts",
+        "review": "Excellent at explaining difficult concepts. Very patient.",
+        "subject": "Chemistry",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Nancy Turner",
+        "review": "The course material is interesting, but the delivery is dull.",
+        "subject": "Geography",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Matthew Rogers",
+        "review": "Very tough exams, but if you put in the work, you’ll do well.",
+        "subject": "Finance",
+        "stars": 4
+      }
+    ]
+  }
+  
